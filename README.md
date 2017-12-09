@@ -11,7 +11,7 @@ Time spent: 14 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 
-  - [X] GIF Walkthrough: <img src='XSS issue #2.gif' alt='Video Walkthrough 2' />
+  - [X] GIF Walkthrough: <img src='XSS_issue_#2.gif' alt='Video Walkthrough 2' />
   - [X] Steps to recreate: 
   - [X] Affected source code:
     - [Link 1](http://wpdistillery.local/wp-admin/post-new.php)
@@ -20,7 +20,7 @@ Time spent: 14 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 
-  - [X] GIF Walkthrough: <img src='XSS issue.gif' alt='Video Walkthrough 1' />
+  - [X] GIF Walkthrough: <img src='XSS_issue_#1.gif' alt='Video Walkthrough 1' />
   - [X] Steps to recreate: 
   - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -29,7 +29,7 @@ Time spent: 14 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 
-  - [X] GIF Walkthrough: <img src='XSS issue #1.gif' alt='Video Walkthrough 3' />
+  - [X] GIF Walkthrough: <img src='XSS_issue_#1.gif' alt='Video Walkthrough 3' />
   - [X] Steps to recreate: 
   - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
