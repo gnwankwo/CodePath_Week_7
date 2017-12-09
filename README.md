@@ -6,55 +6,37 @@ Time spent: 14 hours spent in total
 
 ## Pentesting Report
 
-1. (Required) Authenticated Stored Cross-Site Scripting (XSS)
+1. (Required) Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds
   - [X] Summary: 
-    - Vulnerability types:
+    - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 
-  - [X] GIF Walkthrough: http://wpdistillery.local/wp-admin/post-new.php
-  - [ ] Steps to recreate: 
+  - [X] GIF Walkthrough: <img src='XSS issue #2.gif' alt='Video Walkthrough 2' />
+  - [X] Steps to recreate: 
   - [X] Affected source code:
     - [Link 1](http://wpdistillery.local/wp-admin/post-new.php)
 1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
+  - [X] Summary: 
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
     - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [X] GIF Walkthrough: <img src='XSS issue.gif' alt='Video Walkthrough 1' />
+  - [X] Steps to recreate: 
+  - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
+  - [X] Summary: 
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
     - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+  - [X] GIF Walkthrough: <img src='XSS issue #1.gif' alt='Video Walkthrough 3' />
+  - [X] Steps to recreate: 
+  - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
 
 ## Assets
 
-List any additional assets, such as scripts or files
+N/A
 
 ## Resources
 
@@ -65,7 +47,7 @@ GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+The only issue I experienced was dealing with setting up my virtual box.
 
 ## License
 
